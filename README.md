@@ -12,6 +12,7 @@ We’re exploring foundational concepts of modern AI, including LLMs, prompt eng
 
 1. [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) — *Stephen Wolfram*
 2. [Foundational Models and Text Generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation) — *Kaggle Whitepaper*
+   - [PDF](https://github.com/phoenix0706/5-Day-Gen-AI-Intensive-Course-Kaggle/blob/master/whitepaper_Foundational%20Large%20Language%20models%20%26%20text%20generation.pdf)
 
 ### 🔹 Prompt Engineering
 
